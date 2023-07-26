@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-07-26T09:16:54.573Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" version="21.6.5" etag="yHd_QdvDgSkzHx7PxREa" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-26T09:34:30.133Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/115.0" etag="ip_wZ0sfamjPO8ENEanA" version="21.6.5" type="github" pages="2">
   <diagram name="Page-1" id="FgZTFMyXYn7I5fCDsrnI">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-5" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="50" width="730" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-6" value="Retro - Confetti" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="60" y="12" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-7" value="https://www.confetti.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-8" value="Wins" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="135" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-9" value="Impediments" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="285" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-10" value="Actions" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="535" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-11" value="Note Line 1&#xa;Note Line 2&#xa;Note Line 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="110" y="200" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-12" value="Note Line 1&#xa;Note Line 2&#xa;Note Line 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="280" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ULl1cctkDHHci-J9ClOJ-13" value="Note Line 1&#xa;Note Line 2&#xa;Note Line 3" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=17;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" vertex="1" parent="ULl1cctkDHHci-J9ClOJ-5">
+          <mxGeometry x="520" y="200" width="90" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="6bpxnH3a2E4xdO-o6icb" name="Page-2">
+    <mxGraphModel dx="954" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="750" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-2" value="Kanban - Confetti" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="2NuClBWk2sEzXg2HZbg8-1">
+          <mxGeometry x="60" y="12" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-3" value="https://www.confetti.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="2NuClBWk2sEzXg2HZbg8-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-4" value="Backlog" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2NuClBWk2sEzXg2HZbg8-1">
+          <mxGeometry x="70" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-5" value="In Progress" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2NuClBWk2sEzXg2HZbg8-1">
+          <mxGeometry x="280" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2NuClBWk2sEzXg2HZbg8-6" value="Done" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2NuClBWk2sEzXg2HZbg8-1">
+          <mxGeometry x="530" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
